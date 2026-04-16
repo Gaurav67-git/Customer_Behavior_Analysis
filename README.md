@@ -132,7 +132,7 @@ This project demonstrates a complete data analytics pipeline—from raw data pro
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Gaurav Dwivedi**
 (Data Analyst | Python | SQL | Power BI)
 
 ---
